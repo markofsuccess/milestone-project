@@ -59,7 +59,6 @@ h2 {
     margin: 0 auto;
     text-align: center;
 }
-
 .davy {
     background: url("../assets/images/dj.jpg");
     background-repeat: no-repeat;
@@ -149,4 +148,15 @@ footer ul li a {
    left: 0;
    bottom: 0;
    width: 100%;
+}
+/*--------------------------------------------Media Queries*/
+@media screen and (max-width: 576px) {
+.mickey {
+   margin-right: 30px;
+   margin-left:  25%;
+}
+@media screen and (max-width: 576px) {
+.peter {
+   margin-right: 30px;
+   margin-left:  25%;
 }
