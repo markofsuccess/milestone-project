@@ -4,12 +4,14 @@
     background: black;
 }
 body {
-  font-size: 1.2rem;
   color: #000;
   background-color: white;
   margin: 0 auto;
   font-style: normal;
   font-family: "Roboto", sans-serif; 
+  font-weight: 300;
+  line-height: 1.4;
+  font-size: 15px;
 }
 h1 {
     text-align: center;
@@ -20,7 +22,6 @@ h1 {
 p {
     font-family: "Exo", sans-serif; 
     font-style: normal;
-    font-size: 20px;
 }
 .navbar {
     font-size: 20px;
@@ -30,10 +31,51 @@ p {
 .navbar a {
     color: white;
     font-family: "Exo", sans-serif;
+    display: block;
+    padding: 16px;
 }
+.navbar li{
+    float: left;
+}
+h2 {
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+/*--------------------------------------------Content*/
+
 .container {
     margin: 0 auto;    
 }
 .content {
     margin: 0 auto;
+    text-align: center;
+}
+.band {
+    margin: 0 auto;
+    text-align: center;
+}
+.members {
+    text-align: center;
+    margin: 0 auto;
+}
+
+/*--------------------------------------------Footer*/
+.list-inline { 
+    text-align: center;
+    padding-top: 10px;
+}
+footer ul li a {
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: white;
+    letter-spacing: 30px;
+    padding-top: 10px;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
 }
