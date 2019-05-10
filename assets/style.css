@@ -42,6 +42,7 @@ h2 {
     padding-bottom: 20px;
 }
 
+
 /*--------------------------------------------Content*/
 
 .container {
@@ -51,14 +52,70 @@ h2 {
     margin: 0 auto;
     text-align: center;
 }
+.members {
+    margin: 0 auto;
+}
 .band {
     margin: 0 auto;
     text-align: center;
 }
-.members {
-    text-align: center;
-    margin: 0 auto;
+
+.davy {
+    background: url("../assets/images/dj.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    position: relative;
+    min-height: 260px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-width: 5px;
 }
+.mickey {
+    background: url("../assets/images/md.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+    min-height: 260px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-width: 5px;
+}
+.michael {
+    background: url("../assets/images/mn.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    min-height: 260px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-width: 5px;
+}
+.peter {
+    background: url("../assets/images/pt.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+    min-height: 260px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-width: 5px;
+}
+
 
 /*--------------------------------------------Footer*/
 .list-inline { 
