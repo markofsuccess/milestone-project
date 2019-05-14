@@ -42,7 +42,6 @@ h2 {
     padding-bottom: 20px;
 }
 
-
 /*--------------------------------------------Content*/
 
 .container {
@@ -129,6 +128,16 @@ h2 {
     color: white;
     text-align: center;
 }
+.uppercase {
+    text-transform: uppercase;
+}
+.iframe {
+    margin: 0 auto;
+}
+.heading2 {
+    margin: 0 auto;
+    padding-top: 30px;
+}
 
 /*--------------------------------------------Timeline*/
 ul.timeline {
@@ -180,6 +189,7 @@ footer ul li a {
    bottom: 0;
    width: 100%;
 }
+
 /*--------------------------------------------Media Queries*/
 @media screen and (max-width: 576px) {
 .mickey {
