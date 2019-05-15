@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 /*--------------------------------------------General*/
-.container-fluid {
-    background: black;
-}
+
 body {
   color: #000;
   background-color: white;
@@ -195,12 +193,13 @@ footer ul li a {
     padding-top: 10px;
 }
 .footer {
-   position: fixed;
    left: 0;
    bottom: 0;
    width: 100%;
 }
-
+.image {
+    width: 100%;
+}
 /*--------------------------------------------Media Queries*/
 @media screen and (max-width: 576px) {
 .mickey {
