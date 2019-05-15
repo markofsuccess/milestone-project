@@ -134,6 +134,9 @@ button[type="submit"] {
     border-top: solid 2px;
     width: 100%;
 }
+.contactinfo {
+    text-align: center;
+}
 /*--------------------------------------------Timeline*/
 ul.timeline {
     list-style-type: none;
