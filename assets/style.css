@@ -119,9 +119,7 @@ h2 {
 .uppercase {
     text-transform: uppercase;
 }
-.iframe {
-    margin: 0 auto;
-}
+
 .heading2 {
     margin: 0 auto;
     padding-top: 30px;
@@ -181,9 +179,7 @@ footer ul li a {
     letter-spacing: 30px;
     padding-top: 10px;
 }
-.footer {
-   left: 0;
-   bottom: 0;
+.footer { 
    width: 100%;
 }
 .image {
