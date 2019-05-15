@@ -132,6 +132,7 @@ button[type="submit"] {
     border-left: solid 2px;
     border-right: solid 2px;
     border-top: solid 2px;
+    width: 100%;
 }
 /*--------------------------------------------Timeline*/
 ul.timeline {
