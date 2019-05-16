@@ -122,6 +122,9 @@ h2 {
     margin: 0 auto;
     padding-top: 30px;
 }
+.audio {
+    margin: 0 auto;
+}
 /*--------------------------------------------Contact*/
 button[type="submit"] {
     background: green;
@@ -181,6 +184,8 @@ footer a {
 .image {
     width: 100%;
 }
+
+
 /*--------------------------------------------Media Queries*/
 @media screen and (max-width: 576px) {
 .mickey {
