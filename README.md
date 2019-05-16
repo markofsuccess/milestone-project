@@ -146,53 +146,7 @@ The contact page is more for both individuals and companies who would like to bo
 *	Get friend to also check for you
 *	Check responsiveness on multiple devices
 
-**contact.html**
-
-**Contact Form**
-
-*	Go to Contact page.
-*	Try submit form with nothing filled out, this should bring up a "required field" alert.
-*	Try fill out form but leave one input field blank to make sure the "required field" alert pops up.
-*	Try to submit form with all input fields filled out and the page should reload.
-*	Check responsiveness on multiple devices
-
-
-**Navigation and Footer**
-
-**Navigation**
-
-*	Open each menu item on each page respectively
-*	Make sure they lead to the correct place and can easily find your way back to starting point
-*	Have friend also test this out for you.
-
-**Footer**
-
-*	Make sure you can get to other places easily from that page
-
-**Social Media Links**
-
-*	Click each link to make sure they open in another page due to the target="_blank"
-*	Make sure each link correlates to the correct social media platform
-
-**Mobile Responsive**
-
-*	Each page was checked through the live preview by inspecting it in dev tools and choosing different screen sizes
-*	Throughout project code was put through an HTML validator to make sure there were no open elemets or such that was preventing the code to run smoothly
-*	This was fixed by looking in the dev tools and altering the CSS
-
-## Bugs/Problems Encountered
-
-*	Mobile responsive was not working at first when viewing in ‘inspect’ and on the different devices.
-*	I noticed the video element not being responsive to desktop and mobile devices, I changed video element to iframe element which my mentor recommended to also make the video load faster on browsers. 
-*   Footer was not at bottom at some pages and on different devices so used main element to wrap main content in and set min-height in ccs to fix it.
-
-
-## Deployment
-
-To deploy my project I pushed my Cloud9 workspace to my Github repository named monkees-theone via the command line. This was done each time edits were made to my code and I needed to save them. Please find my GitHub here https://github.com/markofsuccess/monkees-theone . To create my GitHub page I built it from the Master branch.
-
-## Credits
-
+**
 **Content**
 
 **index.html**
@@ -201,23 +155,22 @@ To deploy my project I pushed my Cloud9 workspace to my Github repository named 
 
 **tourdates.html**
 
-*	The information used for the tour dates timeline in tourdates.html was made up by me.
+[The code used for the timeline in tourdates.html was from mylastof](https://bootsnipp.com/snippets/xrKXW)
 
 ## Media
 
-**Header**
-
-* The Monkees logo used in the navigation bar was obtained from https://www.monkees.com/sites/all/themes/twitter_bootstrap/bootstrap/img/monkees-com-header-logo.png
-* The photo of the band on home page was from https://www.google.com/search?q=the+monkees&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjDxLiepf_hAhUSqIsKHbi-A1sQ_AUIDigB&biw=1440&bih=741 - imgrc=ovwhJwAKV3zVrM:
-	
 **index.html**
 
-*	The video Daydream Believer is from The Monkees youtube page.
+[The band image was taken from here](https://secure.i.telegraph.co.uk/multimedia/archive/02154/m_2154496b.jpg)
 *	The bandbmembers images was taken from Code-Institute-org/project-assets Github repo https://github.com/Code-Institute-Org/project-assets
 
 **ourmusic.html**
 
 *	The audio songs was taken from Code-Institute-org/project-assets Github repo https://github.com/Code-Institute-Org/project-assets
+    [Youtube video of Daydreamer song](https://www.youtube.com/embed/xvqeSJlgaNk)
+
+**contact**
+[The image to the contact page was taken from here](https://static01.nyt.com/images/2019/02/22/obituaries/22TORK3/merlin_54737324_38cb4481-27da-4fd4-9da1-fe20a853677d-jumbo.jpg)
 
 **Acknowledgements**
 
