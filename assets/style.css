@@ -38,6 +38,12 @@ h2 {
     margin: 0 auto;
     padding-bottom: 20px;
 }
+.navbar ul {
+    list-style: none;
+}
+main {
+    min-height: 90vh;
+}
 
 /*--------------------------------------------Content*/
 
@@ -63,11 +69,6 @@ h2 {
     margin-bottom: 30px;
     margin-left: 25%;
     min-height: 260px;
-    border-bottom-style: solid;
-    border-top-style: solid;
-    border-right-style: solid;
-    border-left-style: solid;
-    border-width: 5px;
 }
 .mickey {
     background: url("../assets/images/md.jpg");
@@ -76,11 +77,6 @@ h2 {
     background-position: center;
     margin-bottom: 30px;
     min-height: 260px;
-    border-bottom-style: solid;
-    border-top-style: solid;
-    border-right-style: solid;
-    border-left-style: solid;
-    border-width: 5px;
 }
 .michael {
     background: url("../assets/images/mn.jpg");
@@ -90,11 +86,7 @@ h2 {
     margin-right: 30px;
     margin-bottom: 30px;
     min-height: 260px;
-    border-bottom-style: solid;
-    border-top-style: solid;
-    border-right-style: solid;
-    border-left-style: solid;
-    border-width: 5px;
+   
     margin-left: 25%;
 }
 .peter {
@@ -104,11 +96,6 @@ h2 {
     background-position: center;
     margin-bottom: 30px;
     min-height: 260px;
-    border-bottom-style: solid;
-    border-top-style: solid;
-    border-right-style: solid;
-    border-left-style: solid;
-    border-width: 5px;
 }
 
 
@@ -139,6 +126,7 @@ button[type="submit"] {
 .contactinfo {
     text-align: center;
 }
+
 /*--------------------------------------------Timeline*/
 ul.timeline {
     list-style-type: none;
@@ -169,6 +157,9 @@ ul.timeline > li:before {
     width: 20px;
     height: 20px;
     z-index: 400;
+}
+.time {
+    min-height: 80vh;
 }
 /*--------------------------------------------Footer*/
 .list-inline { 
