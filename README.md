@@ -10,11 +10,11 @@ The third page allows for fans to listen to 4 of the bands most popular hits and
 
 The last page allows for anyone to submit a request to book them for events such as wedding, Christmas party or company events.
 ## UX
-The website is for individuals and companies interested in, are fans of and who want to know more about the Monkees. The website provides popular songs, video, photos of the band, direct links to their verified social media sites and a contact page.
+The website is for individuals and potential clients interested in, are fans of and who want to know more about the Monkees. The website provides popular songs, video, photos of the band, direct links to their verified social media sites and a contact page.
 
 This website also allows these individuals to see what dates and where the band is touring, as well as the possibility to send a request to book the band for different events. 
 
-The contact page is more for both individuals and companies who would like to book The Monkees to play. The website offers information about the band, the different bandmembers and some of their most popular hits.
+The contact page is more for both individuals and potential clients who would like to book The Monkees to play. The website offers information about the band, the different bandmembers and some of their most popular hits.
 
 *	As a new fan I want to see photos of the band members which makes it more personal.
 *	As a potential client I want to read about the band and see who it is composed of so that I know more about them when I decide to book them.
