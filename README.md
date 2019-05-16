@@ -25,7 +25,7 @@ The contact page is more for both individuals and companies who would like to bo
 *	As a fan I want to know what their social media pages are so that I can follow their live updates and tag them in photos I take when I attend their concerts.
 
 ## Mockups
-*	Please find paper and pen mockup for the original design Here.
+[Please find paper and pen mockup for the original design Here.](https://github.com/markofsuccess/milestone-project/tree/master/assets/mockups)
 
 ## Features
 
@@ -184,6 +184,7 @@ The contact page is more for both individuals and companies who would like to bo
 
 *	Mobile responsive was not working at first when viewing in ‘inspect’ and on the different devices.
 *	I noticed the video element not being responsive to desktop and mobile devices, I changed video element to iframe element which my mentor recommended to also make the video load faster on browsers. 
+*   Footer was not at bottom at some pages and on different devices so used main element to wrap main content in and set min-height in ccs to fix it.
 
 
 ## Deployment
@@ -220,6 +221,6 @@ To deploy my project I pushed my Cloud9 workspace to my Github repository named 
 
 **Acknowledgements**
 
-*	Thank you to the tutors for helping me through the parts I needed assistance with.
-*	Thank you to my mentor Antonija Simic for great support and feedback through the whole project.
+*	Thank you so much to the tutors for helping me through the parts I needed assistance with.
+*	Thank you so much to my mentor Antonija Simic for great support and feedback through the whole project.
 *	Credit to mylastof https://bootsnipp.com/snippets/xrKXW for the timeline used in my project.
