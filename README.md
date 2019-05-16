@@ -169,7 +169,7 @@ The contact page is more for both individuals and companies who would like to bo
 *	The audio songs was taken from Code-Institute-org/project-assets Github repo https://github.com/Code-Institute-Org/project-assets
     [Youtube video of Daydreamer song](https://www.youtube.com/embed/xvqeSJlgaNk)
 
-**contact**
+**contact.html**
 [The image to the contact page was taken from here](https://static01.nyt.com/images/2019/02/22/obituaries/22TORK3/merlin_54737324_38cb4481-27da-4fd4-9da1-fe20a853677d-jumbo.jpg)
 
 **Acknowledgements**
@@ -177,3 +177,4 @@ The contact page is more for both individuals and companies who would like to bo
 *	Thank you so much to the tutors for helping me through the parts I needed assistance with.
 *	Thank you so much to my mentor Antonija Simic for great support and feedback through the whole project.
 *	Credit to mylastof https://bootsnipp.com/snippets/xrKXW for the timeline used in my project.
+
