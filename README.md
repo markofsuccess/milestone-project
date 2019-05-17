@@ -84,7 +84,7 @@ The contact page is more for both individuals and potential clients who would li
 
 *	None
 
-**Tech Used**
+## Tech Used
 
 **HTML**
 
