@@ -95,7 +95,7 @@ button[type="submit"] {
     background: green;
 }
 .contact-image {
-    margin: 20px auto;
+    margin: 10px auto;
     border: solid 2px;
     width: 100%;
 }
@@ -148,11 +148,4 @@ footer a {
 }
 .image {
     width: 100%;
-}
-/*--------------------------------------------Media Queries*/
-@media screen and (max-width: 768px) {
-.contact-image {
-    width: 100%;
-    margin-top: 20px;
-}
 }
