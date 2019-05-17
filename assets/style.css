@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 /*--------------------------------------------General*/
-
 body {
   color: #000;
   background-color: white;
@@ -44,10 +43,7 @@ h2 {
 main {
     min-height: 90vh;
 }
-
 /*--------------------------------------------Content*/
-
-
 .content {
     margin: 0 auto;
     text-align: center;
@@ -60,50 +56,30 @@ main {
 .members {
     margin: 0 auto;
 }
-.davy {
-    background: url("../assets/images/dj.jpg");
-    background-repeat: no-repeat;
+.bg-image {
     background-size: cover;
-    background-position: center;
-    margin-right: 30px;
-    margin-bottom: 30px;
-    margin-left: 25%;
+    margin: 0 auto;
     min-height: 260px;
-}
-.mickey {
-    background: url("../assets/images/md.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    margin-bottom: 30px;
-    min-height: 260px;
+    border: 2px solid;
+    margin-bottom: 20px;
 }
-.michael {
-    background: url("../assets/images/mn.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    margin-right: 30px;
-    margin-bottom: 30px;
-    min-height: 260px;
-   
-    margin-left: 25%;
+#davy-image {
+    background-image: url(../assets/images/dj.jpg);
 }
-.peter {
-    background: url("../assets/images/pt.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    margin-bottom: 30px;
-    min-height: 260px;
+#mickey-image {
+    background-image: url("../assets/images/md.jpg");
 }
-
-
+#michael-image {
+    background-image: url("../assets/images/mn.jpg");
+}
+#peter-image {
+    background-image: url("../assets/images/pt.jpg");
+}
 /*--------------------------------------------Ourmusic*/
 .uppercase {
     text-transform: uppercase;
 }
-
 .heading2 {
     margin: 0 auto;
     padding-top: 30px;
@@ -126,13 +102,12 @@ button[type="submit"] {
 .contactinfo {
     text-align: center;
 }
-
 /*--------------------------------------------Timeline*/
-ul.timeline {
+.timeline {
     list-style-type: none;
     position: relative;
 }
-ul.timeline:before {
+.timeline:before {
     content: ' ';
     background: #d4d9df;
     display: inline-block;
@@ -142,11 +117,11 @@ ul.timeline:before {
     height: 100%;
     z-index: 400;
 }
-ul.timeline > li {
+.timeline > li {
     margin: 20px 0;
     padding-left: 20px;
 }
-ul.timeline > li:before {
+.timeline > li:before {
     content: ' ';
     background: white;
     display: inline-block;
@@ -174,21 +149,10 @@ footer a {
 .image {
     width: 100%;
 }
-
-
 /*--------------------------------------------Media Queries*/
-@media screen and (max-width: 576px) {
-.mickey {
-   margin-right: 30px;
-   margin-left:  25%;
-}
-@media screen and (max-width: 576px) {
-.peter {
-   margin-right: 30px;
-   margin-left:  25%;
-}
 @media screen and (max-width: 768px) {
 .contact-image {
     width: 100%;
     margin-top: 20px;
+}
 }

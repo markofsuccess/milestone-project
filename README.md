@@ -167,9 +167,9 @@ The contact page is more for both individuals and companies who would like to bo
 **ourmusic.html**
 
 *	The audio songs was taken from Code-Institute-org/project-assets Github repo https://github.com/Code-Institute-Org/project-assets
-    [Youtube video of Daydreamer song](https://www.youtube.com/embed/xvqeSJlgaNk)
+*    [Youtube video of Daydreamer song](https://www.youtube.com/embed/xvqeSJlgaNk)
 
-**contact**
+**contact.html**
 [The image to the contact page was taken from here](https://static01.nyt.com/images/2019/02/22/obituaries/22TORK3/merlin_54737324_38cb4481-27da-4fd4-9da1-fe20a853677d-jumbo.jpg)
 
 **Acknowledgements**
