@@ -84,7 +84,7 @@ The contact page is more for both individuals and potential clients who would li
 
 *	None
 
-**Tech Used**
+## Tech Used
 
 **HTML**
 
@@ -146,7 +146,6 @@ The contact page is more for both individuals and potential clients who would li
 *	Get friend to also check for you
 *	Check responsiveness on multiple devices
 
-**
 **Content**
 
 **index.html**
@@ -172,7 +171,9 @@ The contact page is more for both individuals and potential clients who would li
 **contact.html**
 [The image to the contact page was taken from here](https://static01.nyt.com/images/2019/02/22/obituaries/22TORK3/merlin_54737324_38cb4481-27da-4fd4-9da1-fe20a853677d-jumbo.jpg)
 
-**Acknowledgements**
+## Deployment
+
+## Acknowledgements
 
 *	Thank you so much to the tutors for helping me through the parts I needed assistance with.
 *	Thank you so much to my mentor Antonija Simic for great support and feedback through the whole project.
