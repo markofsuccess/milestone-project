@@ -123,7 +123,7 @@ The contact page is more for both individuals and potential clients who would li
 *	Go to Home page
 *	Click play on video and wait for it to load
 *	Repeat this on different browser
-*	Check responsiveness on multiple devices
+*	Check responsiveness on multiple devices using Google Chrome development tool
 
 **tourdates.html**
 
@@ -134,7 +134,7 @@ The contact page is more for both individuals and potential clients who would li
 *	Make sure they open in another page due to the target="_blank"
 *	Make sure each link correlates to the correct website
 *	Get friend to also check for you
-*	Check responsiveness on multiple devices
+*	Check responsiveness on multiple devices using Google Chrome development tool
 
 **ourmusic.html**
 
@@ -144,9 +144,17 @@ The contact page is more for both individuals and potential clients who would li
 *	Click through each audio clip
 *	Make sure each song plays aloud
 *	Get friend to also check for you
-*	Check responsiveness on multiple devices
+*	Check responsiveness on multiple devices using Google Chrome development tool
 
-**Content**
+**contact.html**
+
+*   Go to contact page
+*   Try to subit contact form without filling out nothing and get requiered to fil in text in field message.
+*   Try to submit contact form fillng out 3 fields and leaving 1 and get required fil in text in field message.
+*   Get friend to also check for you.
+*   Check responsiveness on multiple devices using Google Chrome development tool
+
+## Content
 
 **index.html**
 
@@ -154,6 +162,7 @@ The contact page is more for both individuals and potential clients who would li
 
 **tourdates.html**
 
+*   The Venues and Dates for the Tourline is fictional and not real. Chose random large venues over the world.
 [The code used for the timeline in tourdates.html was from mylastof](https://bootsnipp.com/snippets/xrKXW)
 
 ## Media
@@ -172,6 +181,13 @@ The contact page is more for both individuals and potential clients who would li
 [The image to the contact page was taken from here](https://static01.nyt.com/images/2019/02/22/obituaries/22TORK3/merlin_54737324_38cb4481-27da-4fd4-9da1-fe20a853677d-jumbo.jpg)
 
 ## Deployment
+
+**Deploy site to Githubpages**
+
+*   Step 1: Go to my repository in Github
+*   Step 2: Click on settings
+*   Step 3: Scroll down and choose select master branch from dropdown
+*   Step 4: Save and page done automatically - 
 
 ## Acknowledgements
 
