@@ -41,7 +41,7 @@ h2 {
     list-style: none;
 }
 main {
-    min-height: 90vh;
+    min-height: 95vh;
 }
 /*--------------------------------------------Content*/
 .content {
@@ -131,7 +131,7 @@ button[type="submit"] {
     z-index: 400;
 }
 .time {
-    min-height: 80vh;
+    min-height: 85vh;
 }
 /*--------------------------------------------Footer*/
 .list-inline { 
