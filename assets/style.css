@@ -43,6 +43,9 @@ h2 {
 main {
     min-height: 95vh;
 }
+.row {
+    margin: 0;
+}
 /*--------------------------------------------Content*/
 .content {
     margin: 0 auto;
