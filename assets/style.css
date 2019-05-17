@@ -92,11 +92,8 @@ button[type="submit"] {
     background: green;
 }
 .contact-image {
-    margin: 0 auto;
-    border-bottom: solid 2px;
-    border-left: solid 2px;
-    border-right: solid 2px;
-    border-top: solid 2px;
+    margin: 20px auto;
+    border: solid 2px;
     width: 100%;
 }
 .contactinfo {
